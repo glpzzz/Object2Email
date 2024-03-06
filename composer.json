@@ -3,7 +3,7 @@
     "description": "Simple solution to obtain a Symfony/Email representation of any object by implementing the provided interface",
     "type": "library",
     "require": {
-        "symfony/mailer": "6.4"
+        "symfony/mailer": "^6.0"
     },
     "license": "MIT",
     "autoload": {
