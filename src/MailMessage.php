@@ -1,6 +1,6 @@
 <?php
 
-namespace Glpzzz\Object2Email;
+namespace Glpzzz\Object2email;
 
 use Symfony\Component\Mime\Email;
 
