@@ -1,0 +1,20 @@
+{
+    "name": "glpzzz/object2email",
+    "description": "Simple solution to obtain a Symfony/Email representation of any object by implementing the provided interface",
+    "type": "library",
+    "require": {
+        "symfony/mailer": "6.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Glpzzz\\Object2email\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel A. López López",
+            "email": "glpz@daxslab.com"
+        }
+    ]
+}
